@@ -1,0 +1,229 @@
+### Iteration number 1
+idamurre
+Correct translations  208 234
+Accuracy:  88.88888888888889
+keskmurre
+Correct translations  3910 4758
+Accuracy:  82.17738545607398
+kirdemurre
+Correct translations  75 100
+Accuracy:  75.0
+läänemurre
+Correct translations  1093 1350
+Accuracy:  80.96296296296296
+mulgi_murre
+Correct translations  1324 1529
+Accuracy:  86.59254414650098
+rannamurre
+Correct translations  364 411
+Accuracy:  88.56447688564477
+saarte_murre
+Correct translations  2139 2504
+Accuracy:  85.42332268370608
+tartu_murre
+Correct translations  1437 1710
+Accuracy:  84.03508771929825
+võru_murre
+Correct translations  2061 2471
+Accuracy:  83.40752731687576
+### Iteration number 2
+idamurre
+Correct translations  203 234
+Accuracy:  86.75213675213675
+keskmurre
+Correct translations  3914 4758
+Accuracy:  82.26145439260193
+kirdemurre
+Correct translations  77 100
+Accuracy:  77.0
+läänemurre
+Correct translations  1100 1350
+Accuracy:  81.48148148148148
+mulgi_murre
+Correct translations  1310 1529
+Accuracy:  85.67691301504252
+rannamurre
+Correct translations  372 411
+Accuracy:  90.51094890510949
+saarte_murre
+Correct translations  2162 2504
+Accuracy:  86.34185303514377
+tartu_murre
+Correct translations  1403 1710
+Accuracy:  82.046783625731
+võru_murre
+Correct translations  2063 2471
+Accuracy:  83.48846620801295
+### Iteration number 3
+idamurre
+Correct translations  207 234
+Accuracy:  88.46153846153847
+keskmurre
+Correct translations  3905 4758
+Accuracy:  82.07229928541403
+kirdemurre
+Correct translations  78 100
+Accuracy:  78.0
+läänemurre
+Correct translations  1095 1350
+Accuracy:  81.11111111111111
+mulgi_murre
+Correct translations  1320 1529
+Accuracy:  86.33093525179856
+rannamurre
+Correct translations  364 411
+Accuracy:  88.56447688564477
+saarte_murre
+Correct translations  2149 2504
+Accuracy:  85.8226837060703
+tartu_murre
+Correct translations  1402 1710
+Accuracy:  81.98830409356725
+võru_murre
+Correct translations  2064 2471
+Accuracy:  83.52893565358154
+### Iteration number 4
+idamurre
+Correct translations  207 234
+Accuracy:  88.46153846153847
+keskmurre
+Correct translations  3907 4758
+Accuracy:  82.11433375367801
+kirdemurre
+Correct translations  77 100
+Accuracy:  77.0
+läänemurre
+Correct translations  1100 1350
+Accuracy:  81.48148148148148
+mulgi_murre
+Correct translations  1310 1529
+Accuracy:  85.67691301504252
+rannamurre
+Correct translations  370 411
+Accuracy:  90.02433090024331
+saarte_murre
+Correct translations  2150 2504
+Accuracy:  85.8626198083067
+tartu_murre
+Correct translations  1400 1710
+Accuracy:  81.87134502923976
+võru_murre
+Correct translations  2057 2471
+Accuracy:  83.24564953460137
+### Iteration number 5
+idamurre
+Correct translations  210 234
+Accuracy:  89.74358974358974
+keskmurre
+Correct translations  3905 4758
+Accuracy:  82.07229928541403
+kirdemurre
+Correct translations  78 100
+Accuracy:  78.0
+läänemurre
+Correct translations  1098 1350
+Accuracy:  81.33333333333333
+mulgi_murre
+Correct translations  1310 1529
+Accuracy:  85.67691301504252
+rannamurre
+Correct translations  366 411
+Accuracy:  89.05109489051095
+saarte_murre
+Correct translations  2151 2504
+Accuracy:  85.90255591054313
+tartu_murre
+Correct translations  1405 1710
+Accuracy:  82.16374269005848
+võru_murre
+Correct translations  2056 2471
+Accuracy:  83.20518008903278
+### Iteration number 6
+idamurre
+Correct translations  208 234
+Accuracy:  88.88888888888889
+keskmurre
+Correct translations  3927 4758
+Accuracy:  82.53467843631778
+kirdemurre
+Correct translations  78 100
+Accuracy:  78.0
+läänemurre
+Correct translations  1094 1350
+Accuracy:  81.03703703703704
+mulgi_murre
+Correct translations  1311 1529
+Accuracy:  85.74231523871812
+rannamurre
+Correct translations  365 411
+Accuracy:  88.80778588807786
+saarte_murre
+Correct translations  2155 2504
+Accuracy:  86.06230031948881
+tartu_murre
+Correct translations  1437 1710
+Accuracy:  84.03508771929825
+võru_murre
+Correct translations  2071 2471
+Accuracy:  83.81222177256171
+### Iteration number 7
+idamurre
+Correct translations  202 234
+Accuracy:  86.32478632478633
+keskmurre
+Correct translations  3901 4758
+Accuracy:  81.98823034888609
+kirdemurre
+Correct translations  75 100
+Accuracy:  75.0
+läänemurre
+Correct translations  1096 1350
+Accuracy:  81.18518518518519
+mulgi_murre
+Correct translations  1317 1529
+Accuracy:  86.13472858077175
+rannamurre
+Correct translations  370 411
+Accuracy:  90.02433090024331
+saarte_murre
+Correct translations  2156 2504
+Accuracy:  86.10223642172524
+tartu_murre
+Correct translations  1387 1710
+Accuracy:  81.11111111111111
+võru_murre
+Correct translations  2062 2471
+Accuracy:  83.44799676244435
+### Iteration number 8
+idamurre
+Correct translations  205 234
+Accuracy:  87.6068376068376
+keskmurre
+Correct translations  3906 4758
+Accuracy:  82.09331651954602
+kirdemurre
+Correct translations  77 100
+Accuracy:  77.0
+läänemurre
+Correct translations  1100 1350
+Accuracy:  81.48148148148148
+mulgi_murre
+Correct translations  1314 1529
+Accuracy:  85.93852190974494
+rannamurre
+Correct translations  369 411
+Accuracy:  89.78102189781022
+saarte_murre
+Correct translations  2151 2504
+Accuracy:  85.90255591054313
+tartu_murre
+Correct translations  1425 1710
+Accuracy:  83.33333333333333
+võru_murre
+Correct translations  2072 2471
+Accuracy:  83.85269121813032
+### Iteration number 9
+idamurre
+Correct translations  206 234
+Accuracy:  88.03418803418803
+keskmurre

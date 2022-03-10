@@ -1,0 +1,1239 @@
+Koos	@koos	koos	0		D	
+    	koos	koos	0		K	
+    	koos	koos	0		S	sg n
+    	kubu	kubu	s		S	sg in
+ollid	####	####				
+     	#olid	ole	id		V	sid
+Tallitaja	####	####				
+         	#talitaja	talitaja	0		S	sg n
+         	talitaja	talitaja	0		S	sg g
+:	:	:			Z	
+N. Mähle	####	####				
+        	#N._Mähle	N._Mähle	0		H	sg n
+,	,	,			Z	
+abbimehhed	####	####				
+          	#abimehed	abi_mees	d		S	pl n
+G. Norwit	####	####				
+         	#G._Norwit	G._Norwit	0		H	sg n
+ja	ja	ja	0		J	
+H. Pissa	####	####				
+        	#H._Pissa	H._Pissa	0		H	sg n
+seatud	sea=tu	sea=tu	d		S	pl n
+      	@seatud	sead	tud		V	tud
+      	seatud	seatud	0		A	
+      	seatud	seatud	0		A	sg n
+      	seatud	seatud	d		A	pl n
+kohtopäwa	####	####				
+         	#kohtupäeva	kohus_päev	0		S	sg p
+piddamas	####	####				
+        	#pidamas	pida	mas		V	mas
+.	.	.			Z	
+Prido	####	####				
+     	#Priidu	Prido	0		H	sg n
+Amisep	####	####				
+      	#Aamisepp	Amisep	0		H	sg n
+astus	astus	astu	s		V	s
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+ja	ja	ja	0		J	
+kaebas	kaebas	kaeba	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+enne	enne	enne	0		D	
+    	@enne	enne	0		K	
+    	enne	enne	0		S	sg n
+Jõulu	####	####				
+     	#jõulu	jõul	0		S	sg p
+,	,	,			Z	
+üks	üks	üks	0		N	sg n
+   	@üks	üks	0		P	sg n
+laupääw	####	####				
+       	#laupäev	lau_päev	0		S	sg n
+öhto	####	####				
+    	#õhtu	õhtu	0		S	sg n
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+körtso	####	####				
+      	#kõrtsi	kõrts	0		S	adt
+,	,	,			Z	
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+pool	pool	pool	0		K	
+    	@pool	pool	0		N	sg n
+    	pool	pool	0		S	sg n
+kortert	####	####				
+       	#kortlit	korter	t		S	sg p
+wina	vina	vina	0		S	sg g
+    	vina	vina	0		S	sg n
+    	vina	vina	0		S	sg p
+    	vina	vina	0		V	o
+    	£viina	viin	0		S	sg p
+,	,	,			Z	
+jonud	####	####				
+     	#joonud	joo	nud		V	nud
+sest	@sest	see	st		P	sg el
+    	sest	sest	0		J	
+isse	####	####				
+    	#ise	ise	0		P	sg n
+    	ise	ise	0		D	
+    	ise	ise	0		P	pl n
+ja	ja	ja	0		J	
+annud	####	####				
+     	#andnud	and	nud		V	nud
+Jür	####	####				
+   	#Jür	Jür	0		Y	?
+.	.	.			Z	
+Tarrestele	####	####				
+          	#Tarrestele	Tarreste	le		H	sg all
+ja	ja	ja	0		J	
+Andr	####	####				
+    	#Andr	Andr	0		Y	?
+.	.	.			Z	
+Püssile	Püssi	Püssi	le		H	sg all
+       	püss	püss	le		S	sg all
+       	£Püssile	Püss	le		H	sg all
+ka	ka	ka	0		D	
+.	.	.			Z	
+Peet	@Peet	Peet	0		H	sg n
+    	peet	peet	0		S	sg n
+Prenner	####	####				
+       	#Prenner	Prenner	0		H	sg n
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ka	ka	ka	0		D	
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+,	,	,			Z	
+terretanud	####	####				
+          	#teretanud	tereta	nud		V	nud
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+ja	ja	ja	0		J	
+küssinud	####	####				
+        	#küsinud	küsi	nud		V	nud
+,	,	,			Z	
+mis	mis	mis	0		P	pl n
+   	@mis	mis	0		P	sg n
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+ellab	####	####				
+     	#elab	ela	b		V	b
+ja	ja	ja	0		J	
+kas	kas	kas	0		D	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+pea	@pea	pea	0		D	
+   	pea	pea	0		S	sg g
+   	pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tulleb	####	####				
+      	#tuleb	tule	b		V	b
+?	?	?			Z	
+Temma	####	####				
+     	#tema	tema	0		P	sg n
+     	tema	tema	0		P	sg g
+öölnud	####	####				
+      	#öelnud	ütle	nud		V	nud
+,	,	,			Z	
+et	et	et	0		J	
+tal	tal	tema	l		P	sg ad
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+nattuke	####	####				
+       	#natuke	natuke	0		D	
+aega	aeg	aeg	0		S	adt
+    	@aega	aeg	0		S	sg p
+    	aega	aega	0		K	
+lähheb	####	####				
+      	#läheb	mine	b		V	b
+.	.	.			Z	
+Peet	@Peet	Peet	0		H	sg n
+    	peet	peet	0		S	sg n
+Prenner	####	####				
+       	#Prenner	Prenner	0		H	sg n
+ja	ja	ja	0		J	
+Gustav	Gustav	Gustav	0		H	sg n
+Külla	küla	küla	0		S	adt
+     	küll	küll	0		S	adt
+     	küll	küll	0		S	sg g
+     	küll	küll	0		S	sg p
+     	£Küla	Külla	0		H	sg n
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+körtsust	####	####				
+        	#kõrtsist	kõrts	st		S	sg el
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+.	.	.			Z	
+Nattukesse	####	####				
+          	#natukese	natukene	0		S	sg g
+aja	@aja	aeg	0		S	sg g
+   	aja	aja	0		V	o
+pärrast	####	####				
+       	pärast	pära	st		S	sg el
+       	pärast	pärane	t		A	sg p
+       	#pärast	pärast	0		D	
+       	pärast	pärast	0		K	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+G. Külla	####	####				
+        	#G._Küla	G._Külla	0		H	sg n
+jälle	jälle	jälle	0		D	
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+,	,	,			Z	
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+korter	korter	korter	0		S	sg n
+      	£kortel	korter	0		S	sg n
+wina	vina	vina	0		S	sg g
+    	vina	vina	0		S	sg n
+    	vina	vina	0		S	sg p
+    	vina	vina	0		V	o
+    	£viina	viin	0		S	sg p
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+sellega	sellega	see	ga		P	sg kom
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+ja	ja	ja	0		J	
+küssinud	####	####				
+        	#küsinud	küsi	nud		V	nud
+jälle	jälle	jälle	0		D	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+käest	@käest	käest	0		K	
+     	käsi	käsi	st		S	sg el
+:	:	:			Z	
+Kas	kas	kas	0		D	
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+pea	@pea	pea	0		D	
+   	pea	pea	0		S	sg g
+   	pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tulleb	####	####				
+      	#tuleb	tule	b		V	b
+?	?	?			Z	
+Selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+J. Tarreste	####	####				
+           	#J._Tarreste	J._Tarreste	0		H	sg g
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+körtsust	####	####				
+        	#kõrtsist	kõrts	st		S	sg el
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+ja	ja	ja	0		J	
+nemmad	####	####				
+      	#nemad	tema	d		P	pl n
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+körtsu	####	####				
+      	#kõrtsi	kõrts	0		S	sg g
+otsast	@otsast	otsast	0		K	
+      	ots	ots	st		S	sg el
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+kasa	####	####				
+    	#kaasa	kaasa	0		D	
+.	.	.			Z	
+Te	sina	sina	0		P	pl g
+  	sina	sina	0		P	pl n
+  	£tee	tee	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+öölnud	####	####				
+      	#öelnud	ütle	nud		V	nud
+P. Peet	####	####				
+       	#Peet	Peet	0		H	sg n
+Brenner	####	####				
+       	#Prenner	Prenner	0		H	sg n
+talle	tall	tall	0		S	adt
+     	tall	tall	0		S	sg g
+     	tall	tall	0		S	sg p
+     	tall	tall	e		S	pl p
+     	@talle	tema	lle		P	sg all
+,	,	,			Z	
+ta	@ta	tema	0		P	sg g
+  	tema	tema	0		P	sg n
+käe	käe	käsi	0		S	sg g
+alt	alt	alt	0		D	
+   	@alt	alt	0		K	
+   	alt	alt	0		S	sg n
+kinni	kinni	kinni	0		D	
+hakkates	####	####				
+        	#hakates	hakka	tes		V	des
+:	:	:			Z	
+Soonleppa	soon_lepp	soon_lepp	0		S	adt
+         	soon_lepp	soon_lepp	0		S	sg p
+         	£Soonlepa	Soonleppa	0		H	sg g
+poiste	poiste	poiss	te		S	pl g
+wölga	####	####				
+     	#võlga	võlg	0		S	sg p
+joua	####	####				
+    	#jõua	jõud	0		V	o
+ma	ma	mina	0		P	sg n
+kül	####	####				
+   	#küll	küll	0		D	
+ilmas	@ilmas	ilmas	0		D	
+     	ilm	ilm	s		S	sg in
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tassuda	####	####				
+       	#tasuda	tasu	da		V	da
+,	,	,			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+sulle	sulle	sina	lle		P	sg all
+wöin	####	####				
+    	#võin	või	n		V	n
+ehk	@ehk	ehk	0		D	
+   	ehk	ehk	0		J	
+jubba	####	####				
+     	#juba	juba	0		D	
+tänna	tänna	tänna	0		D	
+     	£täna	täna	0		D	
+öhto	####	####				
+    	#õhtu	õhtu	0		S	sg n
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tassuda	####	####				
+       	#tasuda	tasu	da		V	da
+.	.	.			Z	
+Nenda	####	####				
+     	#nõnda	nõnda	0		D	
+juttu	jutt	jutt	0		S	adt
+     	@juttu	jutt	0		S	sg p
+ajades	ajades	aja	des		V	des
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+naad	####	####				
+    	#nad	tema	d		P	pl n
+eddasi	####	####				
+      	#edasi	edasi	0		D	
+,	,	,			Z	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+ühhekorraga	####	####				
+           	#ühekorraga	ühe_korraga	0		D	
+lönud	####	####				
+     	#löönud	löö	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+hobi	hobi	hobi	0		S	sg g
+    	hobi	hobi	0		S	sg n
+    	hobi	hobi	0		S	sg p
+    	£hoobi	hoop	0		S	sg g
+körwa	####	####				
+     	#kõrva	kõrv	0		S	sg g
+äre	####	####				
+   	#äärde	äärde	0		K	
+.	.	.			Z	
+Et	et	et	0		J	
+Jür	####	####				
+   	#Jür	Jür	0		Y	?
+.	.	.			Z	
+Tarreste	####	####				
+        	#Tarreste	Tarreste	0		H	sg n
+wahhele	####	####				
+       	#vahele	vahele	0		D	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+ei	ei	ei	0		D	
+  	@ei	ei	0		V	neg
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+te	sina	sina	0		P	pl g
+  	sina	sina	0		P	pl n
+  	£tee	tee	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+ennamm	####	####				
+      	#enam	enam	0		D	
+middagi	####	####				
+       	#midagi	miski	da	gi	P	sg p
+tehha	####	####				
+     	#teha	tege	a		V	da
+.	.	.			Z	
+Sanud	####	####				
+     	#saanud	saa	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+1	1	1	0		N	?
+tund	tund	tund	0		S	sg n
+aega	aeg	aeg	0		S	adt
+    	@aega	aeg	0		S	sg p
+    	aega	aega	0		K	
+Jür	####	####				
+   	#Jür	Jür	0		Y	?
+.	.	.			Z	
+Tarreste	####	####				
+        	#Tarreste	Tarreste	0		H	sg g
+jures	####	####				
+     	juures	juur	s		S	sg in
+     	juures	juures	0		D	
+     	#juures	juures	0		K	
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+,	,	,			Z	
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+kojo	####	####				
+    	#koju	kodu	0		S	adt
+.	.	.			Z	
+Ukse	ukse	uks	0		S	sg g
+ette	esi	esi	tte		S	adt
+    	ette	ette	0		D	
+    	@ette	ette	0		K	
+jöudes	####	####				
+      	#jõudes	jõud	es		V	des
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+P. Prenner	####	####				
+          	#P._Prenner	P._Prenner	0		H	sg n
+nende	see	see	de		P	pl g
+     	@nende	tema	de		P	pl g
+uksest	uksest	uks	st		S	sg el
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+.	.	.			Z	
+Tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+agga	####	####				
+    	#aga	aga	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+järrel	####	####				
+      	järel	järel	0		D	
+      	#järel	järel	0		K	
+jälle	jälle	jälle	0		D	
+taggasi	####	####				
+       	#tagasi	tagasi	0		D	
+       	tagasi	tagasi	0		K	
+tuppa	tuppa	tuba	0		S	adt
+,	,	,			Z	
+hakkanud	####	####				
+        	#hakanud	hakka	nud		V	nud
+ta	@ta	tema	0		P	sg g
+  	tema	tema	0		P	sg n
+rindo	####	####				
+     	#rindu	rind	u		S	adt
+kinni	kinni	kinni	0		D	
+,	,	,			Z	
+annud	####	####				
+     	#andnud	and	nud		V	nud
+hobi	hobi	hobi	0		S	sg g
+    	hobi	hobi	0		S	sg n
+    	hobi	hobi	0		S	sg p
+    	£hoobi	hoop	0		S	sg g
+pähhe	pähh	pähh	e		A	pl p
+     	pähh	pähh	e		S	pl p
+     	£pähe	pea	0		S	adt
+ja	ja	ja	0		J	
+röhhunud	####	####				
+        	#rõhunud	rõhu	nud		V	nud
+ta	@ta	tema	0		P	sg g
+  	tema	tema	0		P	sg n
+M. Amiseppa	####	####				
+           	#M._Aamisepa	M._Amisep	0		H	sg g
+wodi	####	####				
+    	#voodi	voodi	0		S	sg g
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+mahha	####	####				
+     	#maha	maha	0		D	
+.	.	.			Z	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+emma	####	####				
+    	#ema	ema	0		S	sg n
+Marre	####	####				
+     	#Mare	Mare	0		H	sg n
+ja	ja	ja	0		J	
+nane	####	####				
+    	#naine	naine	0		S	sg n
+Liso	####	####				
+    	#Liisu	Liso	0		H	sg n
+    	Liisu	Liso	0		H	sg g
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+senna	senna	senna	0		S	sg g
+     	senna	senna	0		S	sg n
+     	£sinna	sinna	0		D	
+wahhele	####	####				
+       	#vahele	vahele	0		D	
+tunginud	tungi=nud	tungi=nud	0		A	
+        	tungi=nud	tungi=nud	0		A	sg n
+        	tungi=nu	tungi=nu	d		S	pl n
+        	tungi=nud	tungi=nud	d		A	pl n
+        	@tunginud	tungi	nud		V	nud
+,	,	,			Z	
+sanud	####	####				
+     	#saanud	saa	nud		V	nud
+ka	ka	ka	0		D	
+hopisid	####	####				
+       	#hoopisid	hoop	sid		S	pl p
+.	.	.			Z	
+Wimaks	####	####				
+      	#viimaks	viimaks	0		D	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+maja-issa	maja	maja	0		S	sg g
+         	maja	maja	0		S	sg n
+         	maja	maja	0		S	sg p
+         	£majaisa	maja_isa	0		S	sg n
+M. Amisep	####	####				
+         	#M._Aamisepp	M._Amisep	0		H	sg n
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	@välja	välja	0		D	
+     	välja	välja	0		V	o
+     	välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+saatnud	saat=nud	saat=nud	0		A	
+       	saat=nud	saat=nud	0		A	sg n
+       	saat=nu	saat=nu	d		S	pl n
+       	saat=nud	saat=nud	d		A	pl n
+       	@saatnud	saat	nud		V	nud
+.	.	.			Z	
+Mihkel	@Mihkel	Mihkel	0		H	sg n
+      	mihkel	mihkel	0		A	sg n
+      	mihkel	mihkel	0		S	sg n
+Amisep	####	####				
+      	#Aamisepp	Amisep	0		H	sg n
+astus	astus	astu	s		V	s
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+ja	ja	ja	0		J	
+ütles	ütles	ütle	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+P. Prenner	####	####				
+          	#P._Prenner	P._Prenner	0		H	sg n
+sel	@sel	see	l		P	sg ad
+   	sel	sel	0		Y	?
+laupääw	####	####				
+       	#laupäev	lau_päev	0		S	sg n
+öhtul	####	####				
+     	#õhtul	õhtu	l		S	sg ad
+,	,	,			Z	
+kel	kes	kes	l		P	sg ad
+   	£kell	kell	0		S	sg n
+1	1	1	0		N	?
+/	/	/			Z	
+2	2	2	0		N	?
+10	10	10	0		N	?
+neile	see	see	le		P	pl all
+     	@neile	tema	le		P	pl all
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+täis	täis	täis	0		A	
+    	@täis	täis	0		A	sg n
+    	täis	täis	0		D	
+    	täis	täis	0		S	sg n
+    	täi	täi	s		S	sg in
+    	täi	täi	s		V	s
+joobnud	joobnud	joobnud	0		A	
+       	@joobnud	joobnud	0		A	sg n
+       	joobnu	joobnu	d		S	pl n
+       	joobnud	joobnud	d		A	pl n
+,	,	,			Z	
+sel	@sel	see	l		P	sg ad
+   	sel	sel	0		Y	?
+peale	@peale	peale	0		D	
+     	peale	peale	0		K	
+     	pea	pea	le		S	sg all
+wandunud	vandu=nud	vandu=nud	0		A	
+        	vandu=nud	vandu=nud	0		A	sg n
+        	vandu=nu	vandu=nu	d		S	pl n
+        	vandu=nud	vandu=nud	d		A	pl n
+        	@vandunud	vandu	nud		V	nud
+,	,	,			Z	
+et	et	et	0		J	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+körtsu	####	####				
+      	#kõrtsi	kõrts	0		S	sg g
+te	sina	sina	0		P	pl g
+  	sina	sina	0		P	pl n
+  	£tee	tee	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+peksnud	peks=nud	peks=nud	0		A	
+       	peks=nud	peks=nud	0		A	sg n
+       	peks=nu	peks=nu	d		S	pl n
+       	peks=nud	peks=nud	d		A	pl n
+       	@peksnud	peks	nud		V	nud
+ja	ja	ja	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+mütsi	müts	müts	0		S	adt
+     	@mütsi	müts	0		S	sg g
+     	müts	müts	0		S	sg p
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+kautanud	####	####				
+        	#kaotanud	kaota	nud		V	nud
+ja	ja	ja	0		J	
+ootanud	####	####				
+       	#oodanud	oota	nud		V	nud
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+agga	####	####				
+    	#aga	aga	0		J	
+kojo	####	####				
+    	#koju	kodu	0		S	adt
+tullewad	####	####				
+        	#tulevat	tule	vad		V	vat
+.	.	.			Z	
+Kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+olnud	ol=nud	ol=nud	0		A	
+     	ol=nud	ol=nud	0		A	sg n
+     	ol=nud	ol=nud	d		A	pl n
+     	@olnud	ole	nud		V	nud
+     	olnu	olnu	d		S	pl n
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+jo	####	####				
+  	ju	ju	0		D	
+  	#juba	juba	0		D	
+arraminnemas	####	####				
+            	#ära_minemas	äea_mine	mas		V	mas
+,	,	,			Z	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+uesti	####	####				
+     	#uuesti	uuesti	0		D	
+tuppa	tuppa	tuba	0		S	adt
+,	,	,			Z	
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+karwupiddi	####	####				
+          	#karvupidi	karvupidi	0		D	
+kokko	####	####				
+     	kokku	kogu	0		S	adt
+     	#kokku	kokku	0		D	
+,	,	,			Z	
+annud	####	####				
+     	#andnud	and	nud		V	nud
+hopisi	####	####				
+      	#hoopisid	hoop	si		S	pl p
+ka	ka	ka	0		D	
+naestele	####	####				
+        	#naistele	naine	tele		P	pl all
+,	,	,			Z	
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+wahhele	####	####				
+       	#vahele	vahele	0		D	
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+kunni	####	####				
+     	kuni	kuni	0		K	
+     	#kuni	kuni	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+neid	neid	neid	0		S	sg n
+    	see	see	d		P	pl p
+    	@neid	tema	d		P	pl p
+lahhutand	####	####				
+         	#lahutanud	lahuta	nd		V	nud
+ja	ja	ja	0		J	
+P. Prenneri	####	####				
+           	#P._Prenneri	P._Prenner	0		S	sg g
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	välja	välja	0		D	
+     	välja	välja	0		V	o
+     	@välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+saatnud	saat=nud	saat=nud	0		A	
+       	saat=nud	saat=nud	0		A	sg n
+       	saat=nu	saat=nu	d		S	pl n
+       	saat=nud	saat=nud	d		A	pl n
+       	@saatnud	saat	nud		V	nud
+.	.	.			Z	
+Peet	@Peet	Peet	0		H	sg n
+    	peet	peet	0		S	sg n
+Brenner	####	####				
+       	#Prenner	Prenner	0		H	sg n
+astus	astus	astu	s		V	s
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+ja	ja	ja	0		J	
+ütles	ütles	ütle	s		V	s
+,	,	,			Z	
+et	et	et	0		J	
+temma	####	####				
+     	tema	tema	0		P	sg g
+     	#tema	tema	0		P	sg n
+ühhe	####	####				
+    	ühe	ühe	0		S	sg n
+    	ühe	üks	0		N	sg g
+    	#ühe	üks	0		P	sg g
+Harjako	####	####				
+       	#Harjaku	Harjako	0		H	sg g
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+körtso	####	####				
+      	#kõrtsi	kõrts	0		S	adt
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+.	.	.			Z	
+Seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+mitte	mitte	mitte	0		D	
+sanna	####	####				
+     	#sõna	sõna	0		S	sg p
+P. Amiseppaga	####	####				
+             	#P._Aamisepaga	P._Amisep	ga		H	sg kom
+räkinud	####	####				
+       	#rääkinud	rääki	nud		V	nud
+.	.	.			Z	
+Pärrast	####	####				
+       	#pärast	pärast	0		D	
+Gus	####	####				
+   	#Gus	Gus	0		Y	?
+.	.	.			Z	
+Külla	küla	küla	0		S	adt
+     	küll	küll	0		S	adt
+     	küll	küll	0		S	sg g
+     	küll	küll	0		S	sg p
+     	£Küla	Külla	0		H	sg g
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+sealt	@sealt	sealt	0		D	
+     	siga	siga	lt		A	sg abl
+     	siga	siga	lt		S	sg abl
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+.	.	.			Z	
+Te	sina	sina	0		P	pl g
+  	sina	sina	0		P	pl n
+  	£tee	tee	0		S	sg g
+peal	peal	peal	0		D	
+    	@peal	peal	0		K	
+    	pea	pea	l		S	sg ad
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+J. Tarreste	####	####				
+           	#J._Tarreste	J._Tarreste	0		H	sg n
+ja	ja	ja	0		J	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+neid	neid	neid	0		S	sg n
+    	see	see	d		P	pl p
+    	@neid	tema	d		P	pl p
+kinni	kinni	kinni	0		D	
+wötnud	####	####				
+      	#võtnud	võt	nud		V	nud
+.	.	.			Z	
+J. Tarreste	####	####				
+           	#J._Tarreste	J._Tarreste	0		H	sg n
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+essite	####	####				
+      	#esiti	esiti	0		D	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+peale	peale	peale	0		D	
+     	@peale	peale	0		K	
+     	pea	pea	le		S	sg all
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+lumme	@lume	lumi	0		S	adt
+     	lumm	lumm	e		S	pl p
+sisse	sisse	sisse	0		D	
+     	@sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+mahha	####	####				
+     	#maha	maha	0		D	
+pannud	pan=nud	pan=nud	0		A	
+      	pan=nud	pan=nud	0		A	sg n
+      	pan=nu	pan=nu	d		S	pl n
+      	pan=nud	pan=nud	d		A	pl n
+      	@pannud	pane	nud		V	nud
+ja	ja	ja	0		J	
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+mönne	####	####				
+     	#mõne	mõni	0		P	sg g
+hobi	hobi	hobi	0		S	sg g
+    	hobi	hobi	0		S	sg n
+    	hobi	hobi	0		S	sg p
+    	£hoobi	hoop	0		S	sg g
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+lönud	####	####				
+     	#löönud	löö	nud		V	nud
+.	.	.			Z	
+Et	et	et	0		J	
+temma	####	####				
+     	#tema	tema	0		P	sg g
+     	tema	tema	0		P	sg n
+müts	müts	müts	0		I	
+    	@müts	müts	0		S	sg n
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+kadduma	####	####				
+       	#kaduma	kadu	ma		V	ma
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+,	,	,			Z	
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+läinud	läinud	läinud	0		A	
+      	läinud	läinud	0		A	sg n
+      	läinu	läinu	d		S	pl n
+      	läinud	läinud	d		A	pl n
+      	@läinud	mine	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+P. Amiseppa	####	####				
+           	#P._Aamisepa	P._Amisep	0		H	sg g
+jure	####	####				
+    	juurde	juur	de		S	adt
+    	juurde	juurde	0		D	
+    	#juurde	juurde	0		K	
+kojo	####	####				
+    	#koju	kodu	0		S	adt
+,	,	,			Z	
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+mütsi	müts	müts	0		S	adt
+     	müts	müts	0		S	sg g
+     	@mütsi	müts	0		S	sg p
+otsima	otsima	otsi	ma		V	ma
+.	.	.			Z	
+Ni	####	####				
+  	#nii	nii	0		D	
+pea	@pea	pea	0		D	
+   	pea	pea	0		S	sg g
+   	pea	pea	0		S	sg n
+   	pida	pida	0		V	o
+nüüd	nüüd	nüüd	0		D	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+Prido	####	####				
+     	#Priidu	Prido	0		H	sg n
+Amisep	####	####				
+      	#Aamisepp	Amisep	0		H	sg n
+kojo	####	####				
+    	#koju	kodu	0		S	adt
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+ja	ja	ja	0		J	
+tedda	####	####				
+     	#teda	tema	da		P	sg p
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+näinud	@näinud	näge	nud		V	nud
+      	näi=nud	näi=nud	0		A	
+      	näi=nud	näi=nud	0		A	sg n
+      	näi=nud	näi=nud	d		A	pl n
+      	näinu	näinu	d		S	pl n
+      	näinu	näi	nud		V	nud
+,	,	,			Z	
+annud	####	####				
+     	#andnud	and	nud		V	nud
+ta	tema	tema	0		P	sg g
+  	@ta	tema	0		P	sg n
+temmale	####	####				
+       	#temale	tema	le		P	sg all
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+paar	@paar	paar	0		N	sg n
+    	paar	paar	0		S	sg n
+hopi	####	####				
+    	#hoopi	hoop	0		S	sg p
+.	.	.			Z	
+Temma	####	####				
+     	#tema	tema	0		P	sg n
+     	tema	tema	0		P	sg g
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+siis	@siis	siis	0		D	
+    	siis	siis	0		J	
+wälja	väli	väli	0		S	adt
+     	väli	väli	0		S	sg g
+     	väli	väli	0		S	sg p
+     	välja	välja	0		D	
+     	välja	välja	0		V	o
+     	@välja	väli	0		S	adt
+     	välja	väli	0		S	sg g
+     	välja	väli	0		S	sg p
+ja	ja	ja	0		J	
+watanud	####	####				
+       	#vaadanud	vaata	nud		V	nud
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+aknast	aknast	aken	st		S	sg el
+sisse	@sisse	sisse	0		D	
+     	sisse	sisse	0		K	
+     	siss	siss	e		S	pl p
+ja	ja	ja	0		J	
+näinud	@näinud	näge	nud		V	nud
+      	näi=nud	näi=nud	0		A	
+      	näi=nud	näi=nud	0		A	sg n
+      	näi=nud	näi=nud	d		A	pl n
+      	näinu	näinu	d		S	pl n
+      	näi	näi	nud		V	nud
+,	,	,			Z	
+kuida	####	####				
+     	#kuidas	kuidas	0		D	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+isse	####	####				
+    	#ise	ise	0		P	sg n
+    	ise	ise	0		D	
+    	ise	ise	0		P	pl n
+seal	@seal	seal	0		D	
+    	siga	siga	l		A	sg ad
+    	siga	siga	l		S	sg ad
+toas	toas	tuba	s		S	sg in
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+naest	####	####				
+     	#naist	naine	t		S	sg p
+ja	ja	ja	0		J	
+emma	####	####				
+    	#ema	ema	0		S	sg p
+peksnud	peks=nud	peks=nud	0		A	
+       	peks=nud	peks=nud	0		A	sg n
+       	peks=nu	peks=nu	d		S	pl n
+       	peks=nud	peks=nud	d		A	pl n
+       	@peksnud	peks	nud		V	nud
+.	.	.			Z	
+Jürri	####	####				
+     	#Jüri	Jürri	0		H	sg n
+Tarreste	####	####				
+        	#Tarreste	Tarreste	0		H	sg n
+astus	astus	astu	s		V	s
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+ja	ja	ja	0		J	
+tunnistas	tunnistab	tunnista	s		V	s
+sedda	####	####				
+     	#seda	see	da		P	sg p
+körtsus	####	####				
+       	#kõrtsis	kõrts	s		S	sg in
+ollemist	####	####				
+        	#olemist	olemine	t		S	sg p
+ja	ja	ja	0		J	
+sealt	@sealt	sealt	0		D	
+     	siga	siga	lt		A	sg abl
+     	siga	siga	lt		S	sg abl
+ärratullemist	####	####				
+             	#ära_tulemist	ära_tulemine	t		S	sg p
+nisamma	####	####				
+       	#niisama	niisama	0		D	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+P. Amisep	####	####				
+         	#P._Aamisepp	P._Amisep	0		H	sg n
+.	.	.			Z	
+Gustav	Gustav	Gustav	0		H	sg n
+Külla	küla	küla	0		S	adt
+     	küll	küll	0		S	adt
+     	küll	küll	0		S	sg g
+     	küll	küll	0		S	sg p
+     	£Küla	Külla	0		H	sg n
+astus	astus	astu	s		V	s
+ette	esi	esi	tte		S	adt
+    	@ette	ette	0		D	
+    	ette	ette	0		K	
+ja	ja	ja	0		J	
+tunnistas	tunnistab	tunnista	s		V	s
+sedda	####	####				
+     	#seda	see	da		P	sg p
+körtsus	####	####				
+       	#kõrtsis	kõrts	s		S	sg in
+ollemist	####	####				
+        	#olemist	olemine	t		S	sg p
+ja	ja	ja	0		J	
+sealt	@sealt	sealt	0		D	
+     	siga	siga	lt		A	sg abl
+     	siga	siga	lt		S	sg abl
+ärratullemist	####	####				
+             	#ära_tulemist	ära_tulemine	t		S	sg p
+ni	####	####				
+  	#nii	nii	0		D	
+kui	kui	kui	0		D	
+   	@kui	kui	0		J	
+P. Prenner	####	####				
+          	#P._Prenner	P._Prenner	0		H	sg n
+.	.	.			Z	
+Wimaks	####	####				
+      	#viimaks	viimaks	0		D	
+said	said	saa	id		V	sid
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+suud	@suud	suu	d		S	pl n
+    	suu	suu	d		S	sg p
+suud	@suud	suu	d		S	pl n
+    	suu	suu	d		S	sg p
+wasto	####	####				
+     	#vastu	vastu	0		D	
+     	vastu	vastu	0		K	
+pantud	####	####				
+      	#pandud	pane	tud		V	tud
+,	,	,			Z	
+agga	####	####				
+    	#aga	aga	0		J	
+iggaüks	####	####				
+       	#igaüks	iga_üks	0		P	sg n
+jäi	jäi	jää	i		V	s
+omma	####	####				
+    	#oma	oma	0		P	sg g
+    	on	ole	0		V	vad
+wäljaütlemisse	välja_ütlemine	välja_ütlemine	se		S	adt
+              	£väljaütlemise	välja_ütlemine	0		S	sg g
+jure	####	####				
+    	juurde	juur	de		S	adt
+    	juurde	juurde	0		D	
+    	#juurde	juurde	0		K	
+kindlaks	kindlaks	kindel	ks		A	sg tr
+.	.	.			Z	
+Et	et	et	0		J	
+selgemat	selgemat	selgem	t		C	sg p
+tunnistust	tunnistust	tunnistus	t		S	sg p
+weel	@veel	veel	0		D	
+    	vesi	vesi	l		S	sg ad
+    	veel	vesi	l		S	sg ad
+teistest	teine	teine	test		O	pl el
+        	@teistest	teine	test		P	pl el
+lota	####	####				
+    	#loota	loot	a		V	da
+on	@on	ole	0		V	b
+  	ole	ole	0		V	vad
+,	,	,			Z	
+kes	kes	kes	0		P	pl n
+   	@kes	kes	0		P	sg n
+ka	ka	ka	0		D	
+nendega	see	see	dega		P	pl kom
+       	@nendega	tema	dega		P	pl kom
+seltsis	@seltsis	seltsis	0		D	
+       	seltsis	seltsis	0		K	
+       	seltsi	seltsi	s		V	s
+       	selts	selts	s		S	sg in
+körtsust	####	####				
+        	#kõrtsist	kõrts	st		S	sg el
+ärra	####	####				
+    	#ära	ära	0		D	
+    	ära	ära	0		V	neg o
+tulnud	tul=nud	tul=nud	0		A	
+      	tul=nud	tul=nud	0		A	sg n
+      	tul=nud	tul=nud	d		A	pl n
+      	@tulnud	tule	nud		V	nud
+      	tulnu	tulnu	d		S	pl n
+,	,	,			Z	
+jääb	jääb	jää	b		V	b
+otsuse	otsuse	otsus	0		S	sg g
+teggeminne	####	####				
+          	#tegemine	tegemine	0		S	sg n
+tullewa	####	####				
+       	#tuleva	tulev	0		A	sg g
+kohto	####	####				
+     	kohtu	kohtu	0		V	o
+     	#kohtu	kohus	0		S	sg g
+päwaks	####	####				
+      	#päevaks	päev	ks		S	sg tr
+.	.	.			Z	
+Sellega	sellega	see	ga		P	sg kom
+löppes	####	####				
+      	#lõppes	lõppe	s		V	s
+selle	@selle	see	0		P	sg g
+     	sell	sell	e		S	pl p
+päwa	####	####				
+    	#päeva	päev	0		S	sg g
+istuminne	####	####				
+         	#istumine	istumine	0		S	sg n
+.	.	.			Z	
