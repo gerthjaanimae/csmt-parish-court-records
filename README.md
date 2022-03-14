@@ -17,21 +17,24 @@ It can be obtained from https://www.statmt.org/moses/
 It can be downloaded from https://github.com/estnltk/estnltk
 * The scripts use Bash, so they do not work under Windows natively.
 
-#Overview of the structure of the repository.
-##Scripts
+# Overview of the structure of the repository.
+## Scripts
 Contains the scripts for performing the experiments.
-##manually-annotated-crowdsourcing
+## manually-annotated-crowdsourcing
 Contains the manually annotated parish court records which are required for training the machine translation.
-##records-xml
+
+## records-xml
 Contains all of the parish court records in xml-format.
-##silver-standard
+
+## silver-standard
 Contains the files required for the silver standard experiments.
-##experiments
+
+## experiments
 The directory for the training files and models that will be created when running the scripts.
 
-#Instructions
+# Instructions
 In order to check the accuracies of the baseline, silver standard, large lm and n-grams translations, run the check-accuracy-baseline.sh, check-accuracy-silver.sh etc scripts.
 In order to normalize the whole corpus, run translate-corpus-baseline.sh, translate-corpus-silver.sh etc.
 The scripts produce a lot of output, so you may want to direct it into a file.
 
-More detailed instructions coming soon!
+More detailed instructions coming soon!   
