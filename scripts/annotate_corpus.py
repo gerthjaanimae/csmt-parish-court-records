@@ -20,7 +20,7 @@ import corpus_readers
 from morph_pipeline import *
 from estnltk.taggers.morph_analysis.morf_common import _is_empty_annotation
 from estnltk.taggers import CompoundTokenTagger
-dialects="ra_piirkonnad_murded.csv"
+dialects=os.path.join(os.path.dirname(sys.argv[0]), "..", "ra_piirkonnad_murded.csv")
 # If the missing punctuation analysis should be added to the tsv output
 add_punctuation_analyses = True
 add_sentence_boundaries=False

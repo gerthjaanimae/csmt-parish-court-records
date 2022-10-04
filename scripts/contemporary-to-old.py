@@ -4,7 +4,7 @@ from estnltk.vabamorf.morf import syllabify_word
 import corpus_readers
 import os
 import sys
-dialects_file='/home/gerth/VinuxShare/processing-old-estonian/ra_piirkonnad_murded.csv'
+dialects_file=os.path.join(os.path.dirname(sys.argv[0]), "..", "ra_piirkonnad_murded.csv")
 texts=corpus_readers.read_corpus(sys.argv[1], dialects_file)
 if not os.path.exists(sys.argv[2]):
     os.mkdir(sys.argv[2])
