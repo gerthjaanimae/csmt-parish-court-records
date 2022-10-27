@@ -1,13 +1,13 @@
 from estnltk import Text
 from estnltk.taggers import VabamorfAnalyzer
-from estnltk.taggers.morph_analysis.morf_common import _is_empty_annotation
+from estnltk.taggers.standard.morph_analysis.morf_common import _is_empty_annotation
 from estnltk import Annotation
 from estnltk.taggers import SentenceTokenizer
 from nltk.tokenize.simple import LineTokenizer
 from estnltk.taggers import TokensTagger
 from estnltk.taggers import CompoundTokenTagger
-from estnltk.taggers.text_segmentation.whitespace_tokens_tagger import WhiteSpaceTokensTagger
-from estnltk.taggers.text_segmentation.pretokenized_text_compound_tokens_tagger import PretokenizedTextCompoundTokensTagger
+from estnltk.taggers.standard.text_segmentation.whitespace_tokens_tagger import WhiteSpaceTokensTagger
+from estnltk.taggers.standard.text_segmentation.pretokenized_text_compound_tokens_tagger import PretokenizedTextCompoundTokensTagger
 from estnltk.taggers import Retagger
 from estnltk.taggers import UserDictTagger
 import os

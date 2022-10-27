@@ -4,11 +4,11 @@ from bs4 import BeautifulSoup
 import os
 import sys
 import re
-from estnltk.taggers.text_segmentation.whitespace_tokens_tagger import WhiteSpaceTokensTagger
-from estnltk.taggers.text_segmentation.pretokenized_text_compound_tokens_tagger import PretokenizedTextCompoundTokensTagger
-from estnltk.taggers.text_segmentation.word_tagger import WordTagger
+from estnltk.taggers.standard.text_segmentation.whitespace_tokens_tagger import WhiteSpaceTokensTagger
+from estnltk.taggers.standard.text_segmentation.pretokenized_text_compound_tokens_tagger import PretokenizedTextCompoundTokensTagger
+from estnltk.taggers.standard.text_segmentation.word_tagger import WordTagger
 from estnltk import Layer
-from estnltk.taggers.morph_analysis.morf_common import _postprocess_root
+from estnltk.taggers.standard.morph_analysis.morf_common import _postprocess_root
 def read_from_csv(path):
     with open(path, encoding="utf-8") as fin:
         records=[]

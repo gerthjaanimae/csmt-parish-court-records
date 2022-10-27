@@ -8,7 +8,7 @@ cd $train_files
 echo $1 >> $script_dir/accuracy-tmp.txt
 $script_dir/train-models.sh $1
 mkdir -p test-translation-results/$i
-$script_dir/test-model.sh $1 > test-translation-results/$i/$1.txt
+$script_dir/test-model-ngrams.sh $1 > test-translation-results/$i/$1.txt
  tail -2 test-translation-results/$i/$1.txt >> $script_dir/accuracy-tmp.txt
 }
 #Initialize the file for holding the accuracies temporarily
