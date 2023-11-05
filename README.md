@@ -16,6 +16,7 @@ It can be obtained from https://www.statmt.org/moses/
 * The Python library called ESTNLTK has to be installed.
 It can be downloaded from https://github.com/estnltk/estnltk
 * The scripts use Bash, so they do not work under Windows natively.
+*Make sure to change the variables in the variables.sh script according to your system.
 
 # Overview of the structure of the repository.
 ## Scripts
@@ -37,4 +38,6 @@ In order to check the accuracies of the baseline, silver standard, large lm and 
 In order to normalize the whole corpus, run translate-corpus-baseline.sh, translate-corpus-silver.sh etc.
 The scripts produce a lot of output, so you may want to direct it into a file.
 
-More detailed instructions coming soon!   
+To translate the whole corpus, run the command:
+scripts/translate-corpus-large-lm.sh
+

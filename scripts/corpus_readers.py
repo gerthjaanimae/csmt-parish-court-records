@@ -45,7 +45,9 @@ def read_from_csv(path, dialects_file):
                     if d['maakond_kuni1917']== row['maakond'] and d['kihelkond']==row['kihelkond']:
                         dialect=d['murre']
                 if dialect=="":
-                    sys.stderr("Error: Could not find the dialect information.")
+                    #print (d['kihelkond'], row['kihelkond'])
+                    dialect=row['kihelkond']
+                    #sys.stderr("Error: Could not find the dialect information.")
             meta={
                 'location':row['maakond'].lower(),
                 'year' : row['year'],

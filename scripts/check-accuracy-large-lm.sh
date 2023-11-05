@@ -25,9 +25,10 @@ python $script_dir/prepare-corpus-moses.py $records_annotated .
 cat *-train.txt > for-lm.txt
 #add the artificially created silver standard to the language model
 for x in $silver_standard/*.txt
-do cut -f2 -d $'\t' $x | sed 's/w/v/g' | sed 's/W/V/g' | sed 's/\(.\)/\1 /g' | sed 's/\s*$//g' >> for-lm.txt
+do cut -f2 -d $'\t' "$x" | sed 's/w/v/g' | sed 's/W/V/g' | sed 's/\(.\)/\1 /g' | sed 's/\s*$//g' >> for-lm.txt
 done
-$moses/moses/bin/lmplz -o 5 -S 50% < for-lm.txt > lm.arpa
+#sleep 5
+#$moses/moses/bin/lmplz -o 5 -S 50% < for-lm.txt > lm.arpa
 for j in *-train.txt
 do location=`echo $j | sed "s/-train.txt//"`
 train_test_location $location

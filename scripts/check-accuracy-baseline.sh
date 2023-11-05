@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 #import the variables
-source variables.sh
+./variables.sh
 
 #The function for processing a single dialectal area
 train_test_location () {
